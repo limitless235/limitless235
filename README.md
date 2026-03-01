@@ -44,7 +44,7 @@ I believe great software is built where **systems thinking meets practical engin
 <tr>
 <td width="50%">
 
-### [RAG AI Support System](https://github.com/limitless235/RAG-AI-Support-System)
+### [RAG AI Support System](https://github.com/limitless235/crm-agent)
 
 **Asynchronous AI Support with Redis & RAG**
 
@@ -100,7 +100,7 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### [WhatsApp Chat Analyzer](https://github.com/limitless235/WhatsApp-Chat-Analyzer)
+### [WhatsApp Chat Analyzer](https://github.com/limitless235/WhatsApp-Chat-Analysis)
 
 **Deep analytics for group conversations**
 

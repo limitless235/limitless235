@@ -62,7 +62,7 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### [HomeBrewed Chess Engine](https://github.com/limitless235/HomeBrewed-Chess-Engine)
+### [HomeBrewed Chess Engine](https://github.com/limitless235/HomeBrewedChessEngine)
 
 **Hyper-optimized C++ Engine & AI Coach**
 

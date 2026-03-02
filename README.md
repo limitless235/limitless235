@@ -100,7 +100,7 @@ I believe great software is built where **systems thinking meets practical engin
 </td>
 <td width="50%">
 
-### [WhatsApp Chat Analyzer](https://github.com/limitless235/WhatsApp-Chat-Analysis)
+### [WhatsApp Chat Analyzer](https://github.com/limitless235/Whatsapp-Chat-Analyzer)
 
 **Deep analytics for group conversations**
 
